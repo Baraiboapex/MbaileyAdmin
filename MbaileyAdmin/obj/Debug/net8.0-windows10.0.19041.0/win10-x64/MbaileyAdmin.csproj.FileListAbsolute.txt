@@ -1,0 +1,6 @@
+C:\Users\matth\source\repos\MbaileyAdmin\MbaileyAdmin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MbaileyAdmin.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\MbaileyAdmin\MbaileyAdmin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MbaileyAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\MbaileyAdmin\MbaileyAdmin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MbaileyAdmin.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\MbaileyAdmin\MbaileyAdmin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MbaileyAdmin.AssemblyInfo.cs
+C:\Users\matth\source\repos\MbaileyAdmin\MbaileyAdmin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MbaileyAdmin.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\MbaileyAdmin\MbaileyAdmin\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MbaileyAdmin.sourcelink.json

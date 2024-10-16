@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MbaileyAdmin.Pages.Registration"
+             Title="Registration">
+    <VerticalStackLayout 
+        VerticalOptions="Center" 
+        Margin="20, 0, 20, 0"
+        Spacing="20"
+    >
+        <Label
+            Text="User Sign Up"
+            FontSize="Header"
+            TextColor="#269F92"
+            HorizontalOptions="Center"
+        />
+        <Entry
+            x:Name="UserFirstName"
+            Placeholder="User First Name"
+        />
+        <Entry
+            x:Name="UserLastName"
+            Placeholder="User Last Name"
+            IsPassword="True"
+        />
+        <Entry
+            x:Name="UserEmail"
+            Placeholder="User Email"
+        />
+        <Entry
+            x:Name="UserPassword"
+            Placeholder="User Password"
+            IsPassword="True"
+        />
+        <Button
+            x:Name="BtnSignup"
+            Text="Login"
+            HeightRequest="60"
+            FontSize="Medium"
+            Background="#269F92"
+        />
+    </VerticalStackLayout>
+</ContentPage>

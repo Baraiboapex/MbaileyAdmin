@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MbaileyAdmin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bd7dfe66f9d4a4bee492f97493c6694d8fe6bc4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MbaileyAdmin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MbaileyAdmin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

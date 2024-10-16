@@ -1,4 +1,7 @@
-﻿namespace MbaileyAdmin
+﻿using MbaileyAdmin.Models;
+using MbaileyAdmin.Pages;
+
+namespace MbaileyAdmin
 {
     public partial class App : Application
     {
@@ -6,7 +9,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new Login();
         }
     }
 }

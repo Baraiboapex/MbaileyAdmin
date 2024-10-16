@@ -28,11 +28,65 @@ build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/MainPage.xaml]
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/AddEditBlogPost.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.AddEditBlogPost.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddEditBlogPost.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddEditBlogPost.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/AddEditProject.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.AddEditProject.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddEditProject.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddEditProject.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/BlogPostList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.BlogPostList.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\BlogPostList.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\BlogPostList.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/EditAboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.EditAboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EditAboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EditAboutPage.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/ProjectList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.ProjectList.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectList.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectList.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/Registration.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.Registration.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Registration.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Registration.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/ReviewBlogComments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.ReviewBlogComments.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ReviewBlogComments.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ReviewBlogComments.xaml
+
+[C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Pages/ReviewProjectComments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MbaileyAdmin.Pages.ReviewProjectComments.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ReviewProjectComments.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ReviewProjectComments.xaml
 
 [C:/Users/matth/source/repos/MbaileyAdmin/MbaileyAdmin/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
