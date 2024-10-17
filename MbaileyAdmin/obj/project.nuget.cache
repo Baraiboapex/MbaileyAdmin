@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Zf0xt30d00=",
+  "dgSpecHash": "xB/EW98OkyA=",
   "success": true,
   "projectFilePath": "C:\\Users\\matth\\source\\repos\\MbaileyAdmin\\MbaileyAdmin\\MbaileyAdmin.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\matth\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.9.0.0-rc.2.24473.5.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.2.24473.5\\microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5.nupkg.sha512",
@@ -26,9 +27,15 @@
     "C:\\Users\\matth\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0-rc.2.24473.5\\system.diagnostics.diagnosticsource.9.0.0-rc.2.24473.5.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\system.io.pipelines\\9.0.0-rc.2.24473.5\\system.io.pipelines.9.0.0-rc.2.24473.5.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\system.text.encodings.web\\9.0.0-rc.2.24473.5\\system.text.encodings.web.9.0.0-rc.2.24473.5.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\system.text.json\\9.0.0-rc.2.24473.5\\system.text.json.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm\\8.0.10\\microsoft.netcore.app.runtime.mono.android-arm.8.0.10.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x86\\8.0.10\\microsoft.netcore.app.runtime.mono.android-x86.8.0.10.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x64\\8.0.10\\microsoft.netcore.app.runtime.mono.android-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm64\\8.0.10\\microsoft.netcore.app.runtime.mono.android-arm64.8.0.10.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.iossimulator-x64\\8.0.10\\microsoft.netcore.app.runtime.mono.iossimulator-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.maccatalyst-x64\\8.0.10\\microsoft.netcore.app.runtime.mono.maccatalyst-x64.8.0.10.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.44\\microsoft.windows.sdk.net.ref.10.0.19041.44.nupkg.sha512"
   ],
   "logs": []

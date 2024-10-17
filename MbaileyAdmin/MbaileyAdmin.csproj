@@ -57,16 +57,23 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <AndroidJavaSource Remove="UIServices\**" />
+	  <AndroidLibrary Remove="UIServices\**" />
+	  <AndroidNativeLibrary Remove="UIServices\**" />
+	  <Compile Remove="UIServices\**" />
+	  <EmbeddedResource Remove="UIServices\**" />
+	  <JavaSourceJar Remove="UIServices\**" />
+	  <None Remove="UIServices\**" />
+	  <ProguardConfiguration Remove="UIServices\**" />
+	  <TransformFile Remove="UIServices\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.3.2" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="9.0.0-rc.2.24503.2" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="9.0.0-rc.2.24503.2" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0-rc.2.24473.5" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Compile Update="Pages\Home.xaml.cs">
-	    <DependentUpon>Home.xaml</DependentUpon>
-	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
@@ -80,6 +87,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Pages\EditAboutPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Home.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Pages\Login.xaml">
@@ -100,7 +110,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="UIServices\" />
+	  <None Update="Pages\Home.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
 	</ItemGroup>
 
 </Project>

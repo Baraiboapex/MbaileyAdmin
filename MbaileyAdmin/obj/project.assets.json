@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0-android34.0": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -483,7 +499,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -533,6 +549,22 @@
       }
     },
     "net8.0-android34.0/android-arm": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -1014,7 +1046,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -1058,6 +1090,22 @@
       }
     },
     "net8.0-android34.0/android-arm64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -1539,7 +1587,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -1583,6 +1631,22 @@
       }
     },
     "net8.0-android34.0/android-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -2064,7 +2128,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -2108,6 +2172,22 @@
       }
     },
     "net8.0-android34.0/android-x86": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -2589,7 +2669,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -2633,6 +2713,22 @@
       }
     },
     "net8.0-android34.0/iossimulator-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -3114,7 +3210,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -3158,6 +3254,22 @@
       }
     },
     "net8.0-android34.0/maccatalyst-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -3639,7 +3751,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -3683,6 +3795,22 @@
       }
     },
     "net8.0-android34.0/win10-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -4164,7 +4292,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid10/_._": {}
+          "ref/MonoAndroid10/_._": {}
         },
         "runtime": {
           "lib/MonoAndroid10/_._": {}
@@ -4207,7 +4335,23 @@
         }
       }
     },
-    "net8.0-ios18.0": {
+    "net8.0-ios17.2": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -4689,7 +4833,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -4738,7 +4882,23 @@
         }
       }
     },
-    "net8.0-ios18.0/android-arm": {
+    "net8.0-ios17.2/android-arm": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -5220,7 +5380,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -5263,7 +5423,23 @@
         }
       }
     },
-    "net8.0-ios18.0/android-arm64": {
+    "net8.0-ios17.2/android-arm64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -5745,7 +5921,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -5788,7 +5964,23 @@
         }
       }
     },
-    "net8.0-ios18.0/android-x64": {
+    "net8.0-ios17.2/android-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -6270,7 +6462,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -6313,7 +6505,23 @@
         }
       }
     },
-    "net8.0-ios18.0/android-x86": {
+    "net8.0-ios17.2/android-x86": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -6795,7 +7003,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -6838,7 +7046,23 @@
         }
       }
     },
-    "net8.0-ios18.0/iossimulator-x64": {
+    "net8.0-ios17.2/iossimulator-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -7320,7 +7544,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -7363,7 +7587,23 @@
         }
       }
     },
-    "net8.0-ios18.0/maccatalyst-x64": {
+    "net8.0-ios17.2/maccatalyst-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -7845,7 +8085,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -7888,7 +8128,23 @@
         }
       }
     },
-    "net8.0-ios18.0/win10-x64": {
+    "net8.0-ios17.2/win10-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -8370,7 +8626,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -8413,7 +8669,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0": {
+    "net8.0-maccatalyst17.2": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -8895,7 +9167,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -8944,7 +9216,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/android-arm": {
+    "net8.0-maccatalyst17.2/android-arm": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -9426,7 +9714,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -9469,7 +9757,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/android-arm64": {
+    "net8.0-maccatalyst17.2/android-arm64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -9951,7 +10255,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -9994,7 +10298,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/android-x64": {
+    "net8.0-maccatalyst17.2/android-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -10476,7 +10796,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -10519,7 +10839,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/android-x86": {
+    "net8.0-maccatalyst17.2/android-x86": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -11001,7 +11337,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -11044,7 +11380,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/iossimulator-x64": {
+    "net8.0-maccatalyst17.2/iossimulator-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -11526,7 +11878,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -11569,7 +11921,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/maccatalyst-x64": {
+    "net8.0-maccatalyst17.2/maccatalyst-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -12051,7 +12419,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -12094,7 +12462,23 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/win10-x64": {
+    "net8.0-maccatalyst17.2/win10-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -12576,7 +12960,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -12620,6 +13004,22 @@
       }
     },
     "net8.0-windows10.0.19041": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -13095,7 +13495,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -13145,6 +13545,22 @@
       }
     },
     "net8.0-windows10.0.19041/android-arm": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -13620,7 +14036,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -13664,6 +14080,22 @@
       }
     },
     "net8.0-windows10.0.19041/android-arm64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -14139,7 +14571,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -14183,6 +14615,22 @@
       }
     },
     "net8.0-windows10.0.19041/android-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -14658,7 +15106,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -14702,6 +15150,22 @@
       }
     },
     "net8.0-windows10.0.19041/android-x86": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -15177,7 +15641,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -15221,6 +15685,22 @@
       }
     },
     "net8.0-windows10.0.19041/iossimulator-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -15696,7 +16176,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -15740,6 +16220,22 @@
       }
     },
     "net8.0-windows10.0.19041/maccatalyst-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -16215,7 +16711,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -16259,6 +16755,22 @@
       }
     },
     "net8.0-windows10.0.19041/win10-x64": {
+      "CommunityToolkit.Mvvm/8.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
         "type": "package",
         "dependencies": {
@@ -16734,7 +17246,7 @@
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/netcoreapp2.0/_._": {}
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
@@ -16779,6 +17291,47 @@
     }
   },
   "libraries": {
+    "CommunityToolkit.Mvvm/8.3.2": {
+      "sha512": "m8EolE1A0Updj68WTsZSGI6VWb6mUqHPh7QFo0kt7+JPhYMNXRS1ch8TS/oITAdcxTLrwMOp3ku1KjeG1/Zdpg==",
+      "type": "package",
+      "path": "communitytoolkit.mvvm/8.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "analyzers/dotnet/roslyn4.0/cs/CommunityToolkit.Mvvm.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.0/cs/CommunityToolkit.Mvvm.SourceGenerators.dll",
+        "analyzers/dotnet/roslyn4.3/cs/CommunityToolkit.Mvvm.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.3/cs/CommunityToolkit.Mvvm.SourceGenerators.dll",
+        "build/CommunityToolkit.Mvvm.FeatureSwitches.targets",
+        "build/CommunityToolkit.Mvvm.SourceGenerators.targets",
+        "build/CommunityToolkit.Mvvm.WindowsSdk.targets",
+        "build/CommunityToolkit.Mvvm.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.FeatureSwitches.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.SourceGenerators.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.WindowsSdk.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.targets",
+        "communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+        "communitytoolkit.mvvm.nuspec",
+        "lib/net6.0/CommunityToolkit.Mvvm.dll",
+        "lib/net6.0/CommunityToolkit.Mvvm.pdb",
+        "lib/net6.0/CommunityToolkit.Mvvm.xml",
+        "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll",
+        "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.pdb",
+        "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.xml",
+        "lib/net8.0/CommunityToolkit.Mvvm.dll",
+        "lib/net8.0/CommunityToolkit.Mvvm.pdb",
+        "lib/net8.0/CommunityToolkit.Mvvm.xml",
+        "lib/netstandard2.0/CommunityToolkit.Mvvm.dll",
+        "lib/netstandard2.0/CommunityToolkit.Mvvm.pdb",
+        "lib/netstandard2.0/CommunityToolkit.Mvvm.xml",
+        "lib/netstandard2.1/CommunityToolkit.Mvvm.dll",
+        "lib/netstandard2.1/CommunityToolkit.Mvvm.pdb",
+        "lib/netstandard2.1/CommunityToolkit.Mvvm.xml"
+      ]
+    },
     "Microsoft.Extensions.Configuration/9.0.0-rc.2.24473.5": {
       "sha512": "0hsJlhsf0e9Q4449obn6Mmk8jZiC8d7q06U8stgnDkTvWVzTcukcRwBwSDWY7lgxqAVgqT2uumuwWABDR6j8PA==",
       "type": "package",
@@ -18038,6 +18591,22 @@
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
         "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
         "system.numerics.vectors.4.5.0.nupkg.sha512",
         "system.numerics.vectors.nuspec",
         "useSharedDesignerContext.txt",
@@ -18150,20 +18719,23 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
+      "CommunityToolkit.Mvvm >= 8.3.2",
       "Microsoft.Extensions.Logging.Debug >= 9.0.0-rc.2.24473.5",
       "Microsoft.Maui.Controls >= 9.0.0-rc.2.24503.2",
       "Microsoft.Maui.Controls.Compatibility >= 9.0.0-rc.2.24503.2",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
       "Newtonsoft.Json >= 13.0.3"
     ],
-    "net8.0-ios18.0": [
+    "net8.0-ios17.2": [
+      "CommunityToolkit.Mvvm >= 8.3.2",
       "Microsoft.Extensions.Logging.Debug >= 9.0.0-rc.2.24473.5",
       "Microsoft.Maui.Controls >= 9.0.0-rc.2.24503.2",
       "Microsoft.Maui.Controls.Compatibility >= 9.0.0-rc.2.24503.2",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
       "Newtonsoft.Json >= 13.0.3"
     ],
-    "net8.0-maccatalyst18.0": [
+    "net8.0-maccatalyst17.2": [
+      "CommunityToolkit.Mvvm >= 8.3.2",
       "Microsoft.Extensions.Logging.Debug >= 9.0.0-rc.2.24473.5",
       "Microsoft.Maui.Controls >= 9.0.0-rc.2.24503.2",
       "Microsoft.Maui.Controls.Compatibility >= 9.0.0-rc.2.24503.2",
@@ -18171,6 +18743,7 @@
       "Newtonsoft.Json >= 13.0.3"
     ],
     "net8.0-windows10.0.19041": [
+      "CommunityToolkit.Mvvm >= 8.3.2",
       "Microsoft.Extensions.Logging.Debug >= 9.0.0-rc.2.24473.5",
       "Microsoft.Maui.Controls >= 9.0.0-rc.2.24503.2",
       "Microsoft.Maui.Controls.Compatibility >= 9.0.0-rc.2.24503.2",
@@ -18179,8 +18752,7 @@
   },
   "packageFolders": {
     "C:\\Users\\matth\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -18193,8 +18765,7 @@
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -18217,11 +18788,11 @@
           "targetAlias": "net8.0-android",
           "projectReferences": {}
         },
-        "net8.0-ios18.0": {
+        "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
           "projectReferences": {}
         },
-        "net8.0-maccatalyst18.0": {
+        "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {}
         },
@@ -18245,6 +18816,10 @@
       "net8.0-android34.0": {
         "targetAlias": "net8.0-android",
         "dependencies": {
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.3.2, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.0-rc.2.24473.5, )"
@@ -18279,6 +18854,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.android-arm",
+            "version": "[8.0.10, 8.0.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.android-arm64",
+            "version": "[8.0.10, 8.0.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.android-x64",
+            "version": "[8.0.10, 8.0.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.android-x86",
+            "version": "[8.0.10, 8.0.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.Android": {
             "privateAssets": "all"
@@ -18289,9 +18882,13 @@
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       },
-      "net8.0-ios18.0": {
+      "net8.0-ios17.2": {
         "targetAlias": "net8.0-ios",
         "dependencies": {
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.3.2, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.0-rc.2.24473.5, )"
@@ -18326,6 +18923,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64",
+            "version": "[8.0.10, 8.0.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.iOS": {
             "privateAssets": "all"
@@ -18336,9 +18939,13 @@
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       },
-      "net8.0-maccatalyst18.0": {
+      "net8.0-maccatalyst17.2": {
         "targetAlias": "net8.0-maccatalyst",
         "dependencies": {
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.3.2, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.0-rc.2.24473.5, )"
@@ -18374,6 +18981,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64",
+            "version": "[8.0.10, 8.0.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.MacCatalyst": {
             "privateAssets": "all"
@@ -18387,6 +19000,10 @@
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
         "dependencies": {
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.3.2, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.0-rc.2.24473.5, )"
